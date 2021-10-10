@@ -41,7 +41,8 @@ _So I'll have these core areas and as my XP increase so too can the number of sl
 
 ## How?
 
-- Learn to code (Critical Mission #1)
+- Learn to code 
+  - Code Academy; Full Stack Engineer
 - Make small applications (Chat & Community)
 - Get help / contributions from others
 
