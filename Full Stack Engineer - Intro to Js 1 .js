@@ -44,3 +44,52 @@ Objects, including instances of data types, can have properties, stored informat
 Objects, including instances of data types, can have methods which perform actions. Methods are called by appending the object or instance with a period, the method name, and parentheses. For example: 'hello'.toUpperCase().
 We can access properties and methods by using the ., dot operator.
 Built-in objects, including Math, are collections of methods and properties that JavaScript provides. */ 
+
+// Using variables (var)
+var favouriteFood = 'pizza';
+
+var numOfSlices = 8;
+
+console.log(favouriteFood); // it would show pizza
+console.log(numOfSlices); // it would show 8
+
+// Changable variable (let)
+let changeMe = true
+changeMe = false
+
+console.log(changeMe); // it would show as false
+
+// Constant variable (cont)
+const entree = 'Enchiladas';
+console.log(entree); // this would show Enchiladas
+entree = 'Tacos' // This would bring up an error message as it's false
+
+// Maths with let
+let x = 20;
+x -= 5; // Can be written as x = x - 5
+console.log(x); // Output: 15
+ 
+let y = 50;
+y *= 2; // Can be written as y = y * 2
+console.log(y); // Output: 100
+ 
+let z = 8;
+z /= 2; // Can be written as z = z / 2
+console.log(z); // Output: 4
+
+// I edited some of the equations below by reassigning the value with a +=, -=, *= and /=
+let levelUp = 10;
+levelUp += 5;
+let powerLevel = 9001;
+powerLevel -=100
+let multiplyMe = 32;
+multiplyMe *= 11;
+let quarterMe = 1152;
+quarterMe /= 4;
+
+// String Concatenation with Variables
+let myPet = 'armadillo';
+console.log('I own a pet ' + myPet + '.'); // Output: 'I own a pet armadillo.'
+
+
+
