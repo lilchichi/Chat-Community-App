@@ -50,7 +50,38 @@ else { // simple else statement, nothing else needed
   console.log('We can eat later!');
 }
 
+// Logical Operators
+/* the and operator (&&)
+the or operator (||)
+the not operator, otherwise known as the bang operator (!)
+*/
+
+// Example of a stoplight
+
+if (stopLight === 'green' && pedestrians === 0) {
+  console.log('Go!');
+} else {
+  console.log('Stop');
+}
+
+
+// Example of weekend
+
+if (day === 'Saturday' || day === 'Sunday') {
+  console.log('Enjoy the weekend!');
+} else {
+  console.log('Do some work.');
+}
 
 
 
+let mood = 'sleepy'; // setting mood
+let tirednessLevel = 7; // setting tiredness 
+
+if (mood === 'sleepy' && tirednessLevel > 8) // bunching two if statements
+{ 
+  console.log('time to sleep')
+} else {
+  console.log('not bed time yet')
+}
 
