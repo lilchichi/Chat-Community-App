@@ -179,3 +179,49 @@ if (mood === 'sleepy' && tirednessLevel > 8) // bunching two if statements
   console.log('not bed time yet')
 }
 
+// CONDITIONAL STATEMENTS ternary operators 
+
+// Example 
+let isNightTime = true;
+ 
+if (isNightTime) {
+  console.log('Turn on the lights!');
+} else {
+  console.log('Turn off the lights!');
+}
+
+// Ternary operator example
+isNightTime ? console.log('Turn on the lights!') : console.log('Turn off the lights!'); // Why is is not done this way, seems much faster at first glance?
+
+// Another example, ok this shit is so much simpler & clearer to read
+
+let isLocked = false;
+
+isLocked ? console.log('You will need a key to open the door.') : console.log('You will not need a key to open the door.');
+
+let isCorrect = true;
+
+isCorrect ? console.log('Correct!') : console.log('Incorrect!'); 
+
+let favoritePhrase = 'Love That!';
+
+favoritePhrase === 'Love That!' ? console.log('I love that!') : console.log("I don't love that!")
+
+// else if statements, used for various outcomes, this example shows traffic lights.
+// Follows the order, 1) if 2) else if (repeated for everyother outcome) 3) else for the final outcome
+
+let stopLight = 'yellow'; //main variable stoplight but it's let as it will/can change
+
+if (stopLight === 'red') {
+  console.log('Stop!');
+} else if (stopLight === 'yellow') {
+  console.log('Slow down.');
+} else if (stopLight === 'green') {
+  console.log('Go!');
+} else {
+  console.log('Caution, unknown!');
+}
+
+
+
+
