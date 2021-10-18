@@ -222,6 +222,50 @@ if (stopLight === 'red') {
   console.log('Caution, unknown!');
 }
 
+// Another example of else if
+let season = 'summer';
 
+if (season === 'spring') {
+  console.log('It\'s spring! The trees are budding!');
+} else if (season === "winter") {
+  console.log('It\'s winter! Everything is covered in snow.');
+} else if (season === "fall") {
+console.log('It\'s fall! Leaves are falling!'); 
+} else if (season === "summer") {
+  console.log('It\'s sunny and warm because it\'s summer!');
+} else {
+  console.log('Invalid season.');
+}
+
+// Another example of else if
+let groceryItem = 'papaya';
+ 
+if (groceryItem === 'tomato') {
+  console.log('Tomatoes are $0.49');
+} else if (groceryItem === 'papaya'){
+  console.log('Papayas are $1.29');
+} else {
+  console.log('Invalid item');
+}
+
+// Switch statement example using above example
+let groceryItem = 'papaya';
+ 
+switch (groceryItem) {
+  case 'tomato':
+    console.log('Tomatoes are $0.49');
+    break;
+  case 'lime':
+    console.log('Limes are $1.49');
+    break;
+  case 'papaya':
+    console.log('Papayas are $1.29');
+    break;
+  default:
+    console.log('Invalid item');
+    break;
+}
+ 
+// Prints 'Papayas are $1.29'
 
 
