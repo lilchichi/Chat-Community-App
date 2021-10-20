@@ -21,7 +21,7 @@ switch(randomNumber){
   eightball = 'No';
   break;
   case 3: 
-  eightball = 'Cannot predict now';
+  eightball = 'Only sinners sell';
   break;
   case 4: 
   eightball = 'Do not count on it';
@@ -30,10 +30,10 @@ switch(randomNumber){
   eightball = 'My sources say no';
   break;
   case 6: 
-  eightball = 'Outlook not so good';
+  eightball = 'When you\'re ready, you won\'t have to';
   break;
   case 7: 
-  eightball = 'Signs point to yes';
+  eightball = 'Sell it for what, 1 million dirty fiat';
   break;
 } 
 
