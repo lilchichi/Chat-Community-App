@@ -297,5 +297,24 @@ function sayThanks(name) {
 
 sayThanks('Cole') // will run "Thank you for your purchase Cole! We appreciate your business."
 
+// Adding parameters within the function
 
+function makeShoppingList(item1 = 'milk', item2 = 'bread', item3  = 'eggs'){ // so add the names of items here for future ease of use
+  console.log(`Remember to buy ${item1}`);
+  console.log(`Remember to buy ${item2}`);
+  console.log(`Remember to buy ${item3}`);
+}
+
+makeShoppingList() // will run Remember to buy milk, Remember to buy bread, Remember to buy eggs
+
+//Imagine if we needed to order monitors for everyone in an office and this office is conveniently arranged in a grid shape. 
+// We could use a function to help us calculate the number of monitors needed!
+
+function monitorCount(rows, columns){ //added function, plus parametors of rows/columns
+  return rows * columns; // shows what I want it to actually do which is rows multiplied by columns to see how many will be needed/how many will fit
+}
+
+const numOfMonitors = monitorCount(5, 4); // added numOfMonitors to check how many monitors are needed, then monitor count with the number in there
+
+console.log(numOfMonitors); // will print 20
 
