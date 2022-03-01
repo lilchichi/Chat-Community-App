@@ -4,6 +4,8 @@ Hey world 🌍
 
 I'm working on a pet-project of building a chat/community app.
 
+Never gonna give you up.
+
 ## Why?
 
 Inspired by my awesome colleagues at [status.im](https://status.im/), the web3 community in general, the constant abuse & leaks of personal data and the perversion of privacy in our digital lives which seems to be ever increasing under the pretense of safety & fighting terrorism ... So with all that I thought 'Why not create one myself, might be fun ...'.
