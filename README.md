@@ -1,4 +1,4 @@
-# Chat-Community-App
+# Chat Community App
 
 Hey world 🌍
 
