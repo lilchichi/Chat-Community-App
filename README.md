@@ -41,9 +41,10 @@ _So I'll have these core areas and as my XP increase so too can the number of sl
 
 ## How?
 
-- Learn to code 
-  - Code Academy; Full Stack Engineer
+- Learn to code
+  - [Odin Project](https://www.theodinproject.com/) which is full of [challenges](https://github.com/lilchichi/css-exercises) & small [projects](https://github.com/lilchichi/odin-recipes) that I can build upon & stack my learnings like, lego or bricks to form a house 🧱 (pick your own analogy)? 
 - Make small applications (Chat & Community)
+- Smart contracts seems suuupa-interesting
 - Get help / contributions from others
 
 _... With that it'll be a long journey & these plans are sure to evolve and change, but let's get started._
