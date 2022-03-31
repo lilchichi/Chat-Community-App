@@ -14,9 +14,9 @@ Inspired by my awesome colleagues at [status.im](https://status.im/), the web3 c
 
 I'm looking to build a chat/community app with three core areas which I think is the reason include:
 
-* Privacy
-* Intuitive
-* Fun
+- Privacy
+- Intuitive
+- Fun
 
 I'll be visualising this like my favourite game BOTW's inventory slots.
 
@@ -26,23 +26,25 @@ _So I'll have these core areas and as my XP increase so too can the number of sl
 
 ### This will be an ever growing list but those areas include attributes such as:
 
-* Privacy
-  * Encrypted
-  * P2P
-  * Anonymity
+- Privacy
 
-* Intuitive 
-  * Simple
-  * Smooth
-  * Elegant
+  - Encrypted
+  - P2P
+  - Anonymity
 
-* Fun
-  * It's just fun dawg
+- Intuitive
+
+  - Simple
+  - Smooth
+  - Elegant
+
+- Fun
+  - It's just fun dawg
 
 ## How?
 
 - Learn to code
-  - [Odin Project](https://www.theodinproject.com/) which is full of [challenges](https://github.com/lilchichi/css-exercises) & small [projects](https://github.com/lilchichi/odin-recipes) that I can build upon & stack my learnings like, lego or bricks to form a house 🧱 (pick your own analogy)? 
+  - [Odin Project](https://www.theodinproject.com/) which is full of [challenges](https://github.com/lilchichi/css-exercises) & small [projects](https://github.com/lilchichi/odin-recipes) that I can build upon & stack my learnings like, lego or bricks to form a house 🧱 (pick your own analogy)?
 - Make small applications (Chat & Community)
 - Smart contracts seems suuupa-interesting
 - Get help / contributions from others
